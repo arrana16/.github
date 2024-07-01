@@ -10,5 +10,5 @@ An app thoughtfully designed to provide live and useful information at Vex Robot
 - My team information
 
 ## Timeline
-Beta testing in summer 2023.
-The app will be released in late 2023.
+Beta testing in summer 2024.
+The app will be released in late 2024.
